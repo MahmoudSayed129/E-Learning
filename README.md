@@ -1,5 +1,4 @@
-# Goal-Diggers
-# ACL PROJECT
+# E-Learning PROJECT
 
 The aim of this project is to create a complete Online Learning System. An Online
 Learning System is a web application through which individuals can attend pre-recorded
